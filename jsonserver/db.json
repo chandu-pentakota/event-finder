@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Rang 2020",
+      "description": "Holi celebration in LPU",
+      "date": "02/03/2021",
+      "location": "LPU, Phagwara"
+    },
+    {
+      "name": "Dusseshra",
+      "description": "Dussehra Celebration",
+      "date": "12/09/2020",
+      "location": "LPU",
+      "id": 2
+    },
+    {
+      "name": "test-1",
+      "description": "test-1....",
+      "date": "20-12-2001",
+      "location": "birthday",
+      "id": 3
+    }
+  ]
+}
